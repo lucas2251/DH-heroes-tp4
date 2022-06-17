@@ -1,0 +1,22 @@
+body{
+    background-color:  #000000;
+}
+body header nav ul li a{
+    color: #000000;
+    background-color: #f00404;
+}
+body header nav ul li{
+    margin: 10px 10px ;
+    
+}
+body{
+    background-image: url('/img/Untitled\ \(1\).png');
+    background-repeat: no-repeat;
+    background-position-y: 150% ;
+    background-position-x: center;
+    background-size: 60%;
+    text-transform: uppercase;
+}
+body header nav ul a{
+    font-size: 40px;
+}

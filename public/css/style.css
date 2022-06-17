@@ -1,0 +1,16 @@
+body{
+    background-color:  #000000;
+}
+h1{
+    background-color:#f8f8f8 ;
+    color: #5f0000; 
+    font-size: 400%;
+}
+p{
+    background-color: #ffffff ;
+    font-size: 200%;
+}
+body header nav ul li a{
+    color: #5f0000;
+    font-size: 200%;
+}
