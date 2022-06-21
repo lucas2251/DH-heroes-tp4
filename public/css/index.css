@@ -20,3 +20,7 @@ body{
 body header nav ul a{
     font-size: 40px;
 }
+body main section h2{
+    color: aliceblue;
+    background-color: aliceblue;
+}
